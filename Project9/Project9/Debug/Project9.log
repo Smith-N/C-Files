@@ -1,0 +1,34 @@
+﻿  Trap.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\trap.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Square.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\square.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\rect.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\para.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\trap.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Rect.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\rect.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\para.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\trap.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Quad.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Para.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\para.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\trap.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  NickSmithProject9.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\square.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\rect.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\para.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\trap.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\quad.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nick\desktop\spring 2018\c++ projects\project9\project9\point.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Project9.vcxproj -> C:\Users\Nick\Desktop\Spring 2018\C++ Projects\Project9\Debug\Project9.exe
