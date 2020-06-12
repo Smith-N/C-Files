@@ -1,0 +1,5 @@
+﻿  IntegerSet.cpp
+c:\users\nick\desktop\spring 2018\c++ projects\project 7\project 7\integerset.cpp(78): warning C4715: 'IntegerSet::subset': not all control paths return a value
+c:\users\nick\desktop\spring 2018\c++ projects\project 7\project 7\integerset.cpp(100): warning C4715: 'IntegerSet::isEmpty': not all control paths return a value
+c:\users\nick\desktop\spring 2018\c++ projects\project 7\project 7\integerset.cpp(122): warning C4715: 'IntegerSet::isEqualTo': not all control paths return a value
+  Project 7.vcxproj -> C:\Users\Nick\Desktop\Spring 2018\C++ Projects\Project 7\Debug\Project 7.exe
